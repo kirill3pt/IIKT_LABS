@@ -1,0 +1,12 @@
+C:\Users\Kirill\source\repos\IKT\Laboratornaya3\Laboratornaya3\bin\Debug\Laboratornaya3.exe.config
+C:\Users\Kirill\source\repos\IKT\Laboratornaya3\Laboratornaya3\bin\Debug\Laboratornaya3.exe
+C:\Users\Kirill\source\repos\IKT\Laboratornaya3\Laboratornaya3\bin\Debug\Laboratornaya3.pdb
+C:\Users\Kirill\source\repos\IKT\Laboratornaya3\Laboratornaya3\obj\Debug\Laboratornaya3.csproj.AssemblyReference.cache
+C:\Users\Kirill\source\repos\IKT\Laboratornaya3\Laboratornaya3\obj\Debug\Laboratornaya3.Form1.resources
+C:\Users\Kirill\source\repos\IKT\Laboratornaya3\Laboratornaya3\obj\Debug\Laboratornaya3.Properties.Resources.resources
+C:\Users\Kirill\source\repos\IKT\Laboratornaya3\Laboratornaya3\obj\Debug\Laboratornaya3.csproj.GenerateResource.cache
+C:\Users\Kirill\source\repos\IKT\Laboratornaya3\Laboratornaya3\obj\Debug\Laboratornaya3.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\source\repos\IKT\Laboratornaya3\Laboratornaya3\obj\Debug\Laboratornaya3.exe
+C:\Users\Kirill\source\repos\IKT\Laboratornaya3\Laboratornaya3\obj\Debug\Laboratornaya3.pdb
+C:\Users\Kirill\source\repos\IKT\Laboratornaya3\Laboratornaya3\obj\Debug\Laboratornaya3.Form2.resources
+C:\Users\Kirill\source\repos\IKT\Laboratornaya3\Laboratornaya3\obj\Debug\Laboratornaya3.Form3.resources
