@@ -1,0 +1,16 @@
+﻿<Window x:Class="Zadanie4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Цельсий - Фаренгейт" Height="350" Width="300"
+        WindowStartupLocation="CenterScreen">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Button Content="Показать таблицу температур" Height="40" Click="ShowTemperatures_Click"/>
+
+        <ListBox x:Name="temperatureList" Grid.Row="1" Margin="0,10,0,0" FontSize="14"/>
+    </Grid>
+</Window>

@@ -1,0 +1,14 @@
+C:\Users\Kirill\source\repos\IKT\Laboratornaya4\Zadanie4\bin\Debug\Zadanie4.exe.config
+C:\Users\Kirill\source\repos\IKT\Laboratornaya4\Zadanie4\bin\Debug\Zadanie4.exe
+C:\Users\Kirill\source\repos\IKT\Laboratornaya4\Zadanie4\bin\Debug\Zadanie4.pdb
+C:\Users\Kirill\source\repos\IKT\Laboratornaya4\Zadanie4\obj\Debug\Zadanie4.csproj.AssemblyReference.cache
+C:\Users\Kirill\source\repos\IKT\Laboratornaya4\Zadanie4\obj\Debug\MainWindow.baml
+C:\Users\Kirill\source\repos\IKT\Laboratornaya4\Zadanie4\obj\Debug\MainWindow.g.cs
+C:\Users\Kirill\source\repos\IKT\Laboratornaya4\Zadanie4\obj\Debug\App.g.cs
+C:\Users\Kirill\source\repos\IKT\Laboratornaya4\Zadanie4\obj\Debug\Zadanie4_MarkupCompile.cache
+C:\Users\Kirill\source\repos\IKT\Laboratornaya4\Zadanie4\obj\Debug\Zadanie4.g.resources
+C:\Users\Kirill\source\repos\IKT\Laboratornaya4\Zadanie4\obj\Debug\Zadanie4.Properties.Resources.resources
+C:\Users\Kirill\source\repos\IKT\Laboratornaya4\Zadanie4\obj\Debug\Zadanie4.csproj.GenerateResource.cache
+C:\Users\Kirill\source\repos\IKT\Laboratornaya4\Zadanie4\obj\Debug\Zadanie4.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\source\repos\IKT\Laboratornaya4\Zadanie4\obj\Debug\Zadanie4.exe
+C:\Users\Kirill\source\repos\IKT\Laboratornaya4\Zadanie4\obj\Debug\Zadanie4.pdb
